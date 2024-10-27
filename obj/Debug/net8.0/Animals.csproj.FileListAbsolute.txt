@@ -1,0 +1,14 @@
+C:\Users\zhend\MobileAppDeve\Animals\bin\Debug\net8.0\Animals.exe
+C:\Users\zhend\MobileAppDeve\Animals\bin\Debug\net8.0\Animals.deps.json
+C:\Users\zhend\MobileAppDeve\Animals\bin\Debug\net8.0\Animals.runtimeconfig.json
+C:\Users\zhend\MobileAppDeve\Animals\bin\Debug\net8.0\Animals.dll
+C:\Users\zhend\MobileAppDeve\Animals\bin\Debug\net8.0\Animals.pdb
+C:\Users\zhend\MobileAppDeve\Animals\obj\Debug\net8.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhend\MobileAppDeve\Animals\obj\Debug\net8.0\Animals.AssemblyInfoInputs.cache
+C:\Users\zhend\MobileAppDeve\Animals\obj\Debug\net8.0\Animals.AssemblyInfo.cs
+C:\Users\zhend\MobileAppDeve\Animals\obj\Debug\net8.0\Animals.csproj.CoreCompileInputs.cache
+C:\Users\zhend\MobileAppDeve\Animals\obj\Debug\net8.0\Animals.dll
+C:\Users\zhend\MobileAppDeve\Animals\obj\Debug\net8.0\refint\Animals.dll
+C:\Users\zhend\MobileAppDeve\Animals\obj\Debug\net8.0\Animals.pdb
+C:\Users\zhend\MobileAppDeve\Animals\obj\Debug\net8.0\Animals.genruntimeconfig.cache
+C:\Users\zhend\MobileAppDeve\Animals\obj\Debug\net8.0\ref\Animals.dll
